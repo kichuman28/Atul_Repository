@@ -30,7 +30,7 @@ const Hero = () => {
           {/* Subtitle with typing animation */}
           <div className="overflow-hidden mb-12">
             <p className="text-2xl md:text-3xl text-white/90 font-light animate-slide-up">
-              Video Editor & Digital Artist
+              Artist & Video Editor
             </p>
           </div>
 

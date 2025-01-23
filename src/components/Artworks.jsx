@@ -8,7 +8,7 @@ const Artworks = () => {
     id: i + 1,
     title: `Artwork ${i + 1}`,
     src: `/photos/${i + 1}.jpg`,
-    category: 'Digital Art',
+    category: 'Art',
   }))
 
   const displayedArtworks = showAll ? artworks : artworks.slice(0, 6)

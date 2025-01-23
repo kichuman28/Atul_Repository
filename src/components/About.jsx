@@ -50,7 +50,7 @@ const About = () => {
                     Video Editing
                   </h3>
                   <p className="text-white/70 group-hover:text-white/90 transition-colors duration-300">
-                    Professional video editing with attention to detail
+                    Experienced video editing with attention to detail
                   </p>
                 </div>
               </div>
@@ -62,10 +62,10 @@ const About = () => {
                 
                 <div className="relative">
                   <h3 className="font-bold text-xl text-white mb-3 group-hover:text-[#FFB200] transition-colors duration-300">
-                    Animation
+                    Artist
                   </h3>
                   <p className="text-white/70 group-hover:text-white/90 transition-colors duration-300">
-                    Creative animation and motion graphics
+                    Skilled in pencil artistry and sketching
                   </p>
                 </div>
               </div>
